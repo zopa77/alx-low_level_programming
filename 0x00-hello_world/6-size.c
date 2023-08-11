@@ -1,9 +1,11 @@
 #include <stdio.h>
 
  /**
-  * main -  function is main caluclate the size
+  * main - Entry point of the program
   *
-  * Return: always 0
+  *this function prints the size of various types on the copmuter
+  *it is compaild and run on
+  * Return: Always 0 (sucsess)
   */
 
 int main(void)
