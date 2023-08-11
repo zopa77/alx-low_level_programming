@@ -1,8 +1,8 @@
 #include <stdio.h>
  /**
-  * main - this function is main
+  * main -  function is main caluclate the size
   *
-  * Return: always(0)
+  * Return: always 0
   */
 int main(void)
 {
